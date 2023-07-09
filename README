@@ -1,0 +1,11 @@
+Ensure you have a folder called Data that contains all the array text files in it. 
+
+On the same level you need to create InsertionSort folder with InsertionSort.java class
+
+On the same level you need to create MergeSort folder with MergeSortAlgorithm.java class
+
+Save the Driver.java on the same level as others. Use this to invoke the sorting algorithms.
+The program will require the user to repond with appropriate choice to invoke the respective
+alogrithm. Once the correct input is registed, it will start the execution of all files 
+stored in Data folder one by one and print the exectuion start, execution end and resulting
+execution time for each txt (array) file. 
