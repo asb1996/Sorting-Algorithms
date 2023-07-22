@@ -26,6 +26,7 @@ public class Driver {
                 break;
              default:
                 System.out.println("Invalid Input. Please run the code again!");
+                input.close();
                 return;
         }
 
